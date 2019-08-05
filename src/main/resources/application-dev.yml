@@ -1,0 +1,4 @@
+
+logging.level:
+  org.hibernate.engine.transaction: debug
+  me.itzg.trying.jtarollbacklistener: debug
